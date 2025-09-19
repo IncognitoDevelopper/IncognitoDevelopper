@@ -7,9 +7,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 June 2023 - To: 16 September 2025
+From: 04 June 2023 - To: 17 September 2025
 
-Total Time: 608 hrs 54 mins
+Total Time: 608 hrs 59 mins
 
 JavaScript                 196 hrs 1 min   ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.19 %
 C++                        150 hrs         ⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.63 %
